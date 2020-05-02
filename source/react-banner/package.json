@@ -24,7 +24,7 @@
     "@types/es6-promise": "0.0.33",
     "@pnp/spfx-controls-react": "^1.15.0",
     "@pnp/spfx-property-controls": "^1.16.0",
-    "@starter-kit/shared-library": "0.0.1"
+    "@starter-kit/shared-library": "0.0.2"
   },
   "resolutions": {
     "@types/react": "15.6.6"

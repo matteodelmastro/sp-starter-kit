@@ -28,6 +28,10 @@ export default class BannerWebPart extends BaseClientSideWebPart<IBannerWebPartP
   private propertyFieldNumber: any;
 
   public render(): void {
+
+    console.log("render");
+    console.log(LocaleKeys.BannerParallaxField);
+
     const element: React.ReactElement<IBannerProps> = React.createElement(
       Banner,
       {
